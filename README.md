@@ -58,3 +58,8 @@ https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent-operati
 **Troubleshooting**: \
 https://forums.aws.amazon.com/message.jspa?messageID=758542 \
 https://forums.aws.amazon.com/thread.jspa?threadID=181032
+
+**Contributors**
+- Toni
+- Hetti
+- Bishnu
